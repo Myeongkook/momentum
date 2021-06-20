@@ -53,8 +53,3 @@ if(savedToDos){
     toDos = parsedToDos;
     toDos.forEach(paintTodo)
 }
-
-
-function sexyFilter(){
-
-}
